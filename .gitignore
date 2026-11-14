@@ -1,0 +1,11 @@
+# Build output
+out/
+build/
+dist/
+*.class
+
+# NetBeans user settings
+nbproject/private/
+
+# Created when playing
+stats.properties
